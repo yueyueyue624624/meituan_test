@@ -1,4 +1,5 @@
-# 周末搭子（https://yueyueyue624624.github.io/meituan_test/）
+# 周末搭子
+# 网址：https://yueyueyue624624.github.io/meituan_test/
 
 面向大学生的周末城市探索指南。根据天气、预算、同行人数和兴趣，生成可以直接出发的本地路线，并支持组队、收藏、打卡与攻略浏览。
 
